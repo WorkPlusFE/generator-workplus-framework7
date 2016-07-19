@@ -1,0 +1,30 @@
+{
+  "name": "generator-workplus-framework7",
+  "version": "0.5.0",
+  "description": "Yeoman generator for using Framework7 with Webpack via Babel",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "Framework7",
+    "webpack",
+    "framework",
+    "workplus",
+    "front-end",
+    "app"
+  ],
+  "main": "app/index.js",
+  "author": "Hejx",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "underscore.string": "^3.3.4",
+    "yeoman-generator": "^0.23.4",
+    "yosay": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=4.0.0",
+    "iojs": ">=1.1.0"
+  }
+}

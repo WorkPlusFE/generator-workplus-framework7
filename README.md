@@ -1,6 +1,6 @@
 # generator-workplus-f7
 
-```
+```bash
      _-----_     
     |       |    ╭──────────────────────────╮
     |--(o)--|    │  Welcome to the WorkPlus │
@@ -17,7 +17,7 @@
  
 ### Installation
 
-```
+```bash
 # Make sure both is installed globally
 npm install -g yo
 npm install -g generator-workplus-framework7
@@ -25,7 +25,7 @@ npm install -g generator-workplus-framework7
 
 ### Setting up projects
 
-```
+```bash
 # Create a new directory, and `cd` into it:
 mkdir my-new-project && cd my-new-project
 

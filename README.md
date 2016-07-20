@@ -1,4 +1,4 @@
-# generator-workplus-f7
+# generator-workplus-Framework7
 
 ```bash
      _-----_     

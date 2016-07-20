@@ -31,6 +31,6 @@ module.exports = [
         type: 'input',
         name: 'author',
         message: 'author:', 
-        default: ''
+        default: 'your name here'
     }
 ];

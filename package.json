@@ -1,6 +1,6 @@
 {
   "name": "generator-workplus-framework7",
-  "version": "0.5.0",
+  "version": "0.10.0",
   "description": "Yeoman generator for using Framework7 with Webpack via Babel",
   "files": [
     "generators"

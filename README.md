@@ -33,7 +33,12 @@ mkdir my-new-project && cd my-new-project
 yo workplus-framework7
 ```
 
+### Generating new pages
+
+```bash
+yo workplus-framework7:page newPageName
+```
+
 ### TODO
 
-* add page action
 * test

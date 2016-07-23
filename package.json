@@ -24,6 +24,12 @@
     "yeoman-generator": "^0.23.4",
     "yosay": "^1.2.0"
   },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2",
+    "yeoman-assert": "^2.1.1",
+    "yeoman-test": "^1.0.0"
+  },
   "engines": {
     "node": ">=4.0.0",
     "iojs": ">=1.1.0"

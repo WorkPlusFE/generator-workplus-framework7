@@ -14,6 +14,9 @@
     "front-end",
     "app"
   ],
+  "scripts": {
+    "test": "mocha"
+  },
   "main": "app/index.js",
   "author": "Hejx",
   "license": "MIT",

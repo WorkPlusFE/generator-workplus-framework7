@@ -39,6 +39,8 @@ yo workplus-framework7
 yo workplus-framework7:page newPageName
 ```
 
-### TODO
+### Test
 
-* test
+```bash
+run test
+```

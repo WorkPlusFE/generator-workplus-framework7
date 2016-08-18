@@ -1,6 +1,6 @@
 # generator-workplus-Framework7
 
-[![npm](https://img.shields.io/npm/v/generator-workplus-framework7.svg?maxAge=2592000)]()
+[![npm](https://img.shields.io/npm/v/generator-workplus-framework7.svg?style=flat-square)]()
 [![npm](https://img.shields.io/npm/l/generator-workplus-framework7.svg?maxAge=2592000)]()
 
  > Yeoman generator for Framework7 - lets you quickly set up a project and Webpack module system.
